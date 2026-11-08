@@ -58,6 +58,10 @@ Google Apps Script automatically:
 - Camera availability indicates potential equipment constraints.
 - Automated exception monitoring helps prioritize corrective actions.
 
+  
+- ## Live Dashboard
+[View Interactive Looker Studio Dashboard](https://datastudio.google.com/reporting/8c0c13ef-1ffa-4299-b565-83433982a388)
+
 ## Disclaimer
 This project uses simulated operational data for demonstration and portfolio purposes. KPI results represent the sample dataset and are not real business performance.
 
